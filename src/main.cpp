@@ -44,6 +44,7 @@ char msg_v[MSG_BUFFER_SIZE];
 char msg_b[MSG_BUFFER_SIZE];
 
 int but;
+int test;
 
 ////////////////////////////////////////////////////////////////// Идентификация датчика и LCD
 Adafruit_BMP280 bmp; // I2C
